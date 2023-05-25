@@ -1,2 +1,2 @@
 # Passenger-Counter
- Counting the number of passengers enter into the station
+ Counts the number of passengers entering the station.
